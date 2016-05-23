@@ -1,8 +1,8 @@
 {
-  "name": "metalsmith-skip",
-  "description": "A metalsmith plugin to skip files.",
-  "repository": "git://github.com/dropofwill/metalsmith-skip.git",
-  "version": "0.0.2",
+  "name": "metalsmith-keep",
+  "description": "A metalsmith plugin to keep files.",
+  "repository": "git://github.com/contentascode/metalsmith-keep.git",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
